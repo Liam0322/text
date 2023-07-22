@@ -9,7 +9,6 @@
 
 # ignore all files in any directory named gitignore and simplegit-progit
 gitignore/
-simplegit-progit/
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
 doc/*.txt
