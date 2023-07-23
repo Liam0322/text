@@ -7,9 +7,10 @@
 # only ignore the TODO file in the current directory, not subdir/TODO
 /TODO
 
-# ignore all files in any directory named gitignore and simplegit-progit
+# ignore all files in any directory named gitignore, simplegit-progit and ticgit
 gitignore/
 simplegit-progit/
+ticgit/
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
 doc/*.txt
