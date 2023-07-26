@@ -6,3 +6,5 @@ asa
 do some work on your local master branch 1
 do some work on your local master branch 2
 prepare to push
+someone else pushes to origin and updates its master branch 1
+someone else pushes to git.ourcompany.com and updates its master branch 2
